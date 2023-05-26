@@ -6,3 +6,4 @@ git很好用  真的很好用
 git 有一个 stage 暂存区和一个 master 分支区
 
 
+tracks changes of files
